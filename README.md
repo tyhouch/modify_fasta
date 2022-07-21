@@ -1,4 +1,4 @@
-modify_fasta notebook
+## modify_fasta Notebook ##
 
 This notebook is intended to rename ID lines of a multifasta file based on an excel sheet that realtes accession IDs to variant names, but could be slightly modified to apply to another renaming purpose. 
 
